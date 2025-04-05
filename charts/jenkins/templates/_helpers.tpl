@@ -1,0 +1,1 @@
+# Define settings for use in multiple template files.

@@ -1,0 +1,13 @@
+apiVersion: v2
+name: jenkins
+description: Jenkins Continuous Integration and Delivery Server
+type: application
+version: 0.0.1
+appVersion: "2.504"
+keywords:
+  - continuous-delivery
+  - continuous-integration
+home: http://breaux.io/
+maintainers:
+  - name: Adam Breaux
+    email: breauxaj@gmail.com
